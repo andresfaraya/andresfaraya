@@ -88,7 +88,7 @@ Rol: **Presidente y fundador**
 | 2021 – 2023 | Jefe de Producción | Tecnomyl S.A. (6 supervisores, 104 auxiliares) |
 | 2018 – 2021 | Jefe de Compras y Logística | Clínica de Especialidades Médicas Privadas S.R.L. |
 | 2016 – 2017 | Jefe de Producción – Unidad AA | BGH S.A. (3 supervisores, 350 operarios) |
-| 2014 – 2016 | Jefe de Producción – Unidad RCM | BGH S.A. (13 supervisores, 1300 operarios) |
+| 2014 – 2016 | Jefe de Producción – Unidad RCM | BGH S.A. (13 supervisores, 350 operarios) |
 | 2013 – 2014 | Coordinador de Producción RCM | BGH S.A. |
 | 2012 – 2013 | Supervisor de Producción 3° Cat. | BGH S.A. |
 | 2010 – 2012 | Supervisor de Producción | Brightstar Fueguina |
