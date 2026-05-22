@@ -103,6 +103,18 @@ Rol: **Presidente y fundador**
 
 ---
 
+## 🏎️ Proyecto personal: Alta Revolución
+
+Canal de automovilismo y Fórmula 1 creado y producido de forma independiente desde Tierra del Fuego.
+
+- **YouTube:** [@altarevolucionAA](https://www.youtube.com/@altarevolucionAA) — resúmenes, análisis de carrera, historia, tecnología y diseño de la F1
+- **Instagram:** [@altarevolucionaa](https://www.instagram.com/altarevolucionaa/)
+- **TikTok:** [@altarevolucion1](https://www.tiktok.com/@altarevolucion1)
+
+Producción integral: guión, grabación, edición de video, diseño gráfico y gestión de redes.
+
+---
+
 ## 🌐 Idiomas
 
 - Español: nativo
