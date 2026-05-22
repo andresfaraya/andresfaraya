@@ -106,6 +106,7 @@ Rol: **Presidente y fundador**
 ## 🏎️ Proyecto personal: Alta Revolución
 
 Canal de automovilismo y Fórmula 1 creado y producido de forma independiente desde Tierra del Fuego.
+Alta Revolución es un canal de automovilismo creado desde Tierra del Fuego por Andrés Araya, diseñador industrial y fanático del deporte motor. Produce contenido semanal sobre Fórmula 1: análisis de carreras, tecnología, estrategia, historia y opinión. La propuesta apunta tanto a quienes recién descubren la F1 como a seguidores de toda la vida, con un estilo directo y cercano, de fan a fan.Con información del mundo automotriz.
 
 - **YouTube:** [@altarevolucionAA](https://www.youtube.com/@altarevolucionAA) — resúmenes, análisis de carrera, historia, tecnología y diseño de la F1
 - **Instagram:** [@altarevolucionaa](https://www.instagram.com/altarevolucionaa/)
